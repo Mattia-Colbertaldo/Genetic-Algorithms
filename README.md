@@ -6,4 +6,3 @@
  In this project I use a Genetic Algorithm (GA) to find minima in Dejong Functions:
 
  ![alt text](./DeJong.png)
- ![alt text](./output.png)
